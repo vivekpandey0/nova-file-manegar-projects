@@ -1,0 +1,6 @@
+{
+  "name": "Nova File Manager",
+  "description": "A premium Android File Manager inspired by modern Dribbble and Behance designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
